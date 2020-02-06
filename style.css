@@ -1,0 +1,104 @@
+header{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background-color:#F1C40F;
+  height:100px;
+  width:100%
+}
+
+h1{
+  color:black;
+}
+#abstract{
+   margin-top:-10px;
+  height:200px;
+  width:100%;
+  background-color:#303030;
+}
+ 
+h2{
+  position:relative;
+  top:20px;
+  margin:20px;
+  color:#f0f0f0;
+}
+h6{
+  margin:10px;
+  color:#f0f0f0;
+  position:relative;
+  right:30px;
+  font-size:20px;
+  }
+h8{
+   position:relative;
+  top:20px;
+  margin:20px;
+  color:#f0f0f0;
+}
+ 
+
+p{
+  position:relative;
+  top:20px;
+  margin:20px;
+  color:#f0f0f0;
+}
+
+#intro{
+  margin-top:-15px;
+  height:200px;
+  width:100%;
+  background-color:#303030;
+  }
+ 
+
+#howitworks{
+   margin-top:-15px;
+  height:200px;
+  width:100%;
+  background-color:#303030;
+}
+ 
+#techniques{
+   margin-top:-15px;
+  height:400px;
+  width:100%;
+  background-color:#303030;
+}
+ 
+#result{
+   margin-top:-15px;
+  height:200px;
+  width:100%;
+  background-color:#303030;
+}
+
+ 
+#conclution{
+   margin-top:-15px;
+  height:200px;
+  width:100%;
+  background-color:#303030;
+}
+ 
+
+li{
+  position:relative;
+  top:20px;
+  color:#f0f0f0;
+}
+
+
+footer{
+ 
+  background-color:black;
+  height:80px;
+  width:100%;
+  color:#f0f0f0;
+  display:flex;
+  align-items:center;
+  
+  justify-content:flex-end;
+ 
+}
